@@ -9751,7 +9751,7 @@ textarea.form-control {
       width:80%;
       height: 400px;
     } 
-    @media  screen and (max-width:680px) {
+    @media  screen and (max-width:800px) {
        #about-section>div{
          display:block;
        }
@@ -9800,7 +9800,7 @@ textarea.form-control {
       justify-content: center;
       margin: auto;
     }
-    @media screen and (max-width:900px){
+    @media screen and (max-width:950px){
       #smallbox{
         display:block;
         width:90%;
@@ -9817,7 +9817,7 @@ textarea.form-control {
       /* border:1px solid red; */
       width:80%;   
     }
-   @media screen and (max-width:800px) {
+   @media screen and (max-width:850px) {
       #colrow{
         display: block;
       }
