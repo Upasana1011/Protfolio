@@ -9708,7 +9708,7 @@ textarea.form-control {
       text-align: center;
       justify-content: center;   
     }
-    #skillgrid>img{
+    #skillgrid img{
       height: 90px;
     }
     #skillgrid2{
@@ -9718,7 +9718,7 @@ textarea.form-control {
       gap:7%;
       padding-left: 20%;
     }
-    #skillgrid2>img{
+    #skillgrid2 img{
       height:100px;
       width:100px;
     }
