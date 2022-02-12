@@ -9750,6 +9750,7 @@ textarea.form-control {
     #aboutyellow>img{
       width:80%;
       height: 400px;
+      margin-top: 8%;
     } 
     @media  screen and (max-width:800px) {
        #about-section>div{
