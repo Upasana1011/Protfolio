@@ -9756,6 +9756,9 @@ textarea.form-control {
        #about-section>div{
          display:block;
        }
+      #aboutyellow{
+         width:98%;
+       }
     }
 
     .projectbox{
